@@ -1,6 +1,6 @@
 /* your code */
 table{
-	border:none;
+	border:solid 1px lightgray;
 	text-align:left;
 	width:80%;
   border-radius:10px;

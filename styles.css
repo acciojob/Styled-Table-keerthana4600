@@ -1,1 +1,29 @@
 /* your code */
+table{
+	border:none;
+	text-align:left;
+	width:80%;
+  border-radius:10px;
+	margin:10px;
+   
+	
+}
+#head{
+	 background-color:lightblue;
+}
+#body-1{
+	background-color:lightgray;
+	
+}
+#body-2{
+	background-color:white;
+	
+}
+#body-3{
+	background-color:lightgray;
+	
+}
+#body-4{
+	background-color:white;
+	
+}
